@@ -1,9 +1,10 @@
 'use sstrict'
 
 
-var liczba1 = 13, liczba2 = 5;
 
-if ( (liczba2 > 3) && (liczba2 < 10)) {
-    console.log("tak");
+if (3>15) {
+    console.log("tak")
+} else{
+    console.log("nie");
 }
 
